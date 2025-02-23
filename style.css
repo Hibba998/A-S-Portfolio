@@ -173,16 +173,16 @@ nav .menu-items a:hover {
 .hero .achievements {
   position: absolute;
   right: 0;
-  top: 17.5rem;
+  top: 15.5rem;
   background: rgba(0, 0, 0, 0.7);
   height: 36.25rem;
   width: 28.75rem;
-  padding: 2.5rem;
+  padding: 2.1rem;
   border: 4px solid rgba(255, 255, 255, 0.05);
   backdrop-filter: blur(0.125rem);
   display: flex;
   flex-direction: column;
-  gap: 2rem;
+  gap: 1rem;
   justify-content: center;
 }
 
